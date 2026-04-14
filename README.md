@@ -11,7 +11,7 @@
 |-----|-------------|--------|----------|-------|
 | **Bit Buddy** | Track and manage external drives (HDDs, SSDs, etc.) | 🟢 **v3.0** | iOS/iPadOS | [🔗 App Store](https://one13.link/bitbuddy)
 | **Quick.Link** | Create and manage custom short links via YOURLS | 🟢 **v1.5** | iOS | [🔗 App Store](https://one13.link/quick-link-dl)
-| **Cribbo** | A gorgeous HomeKit and Matter code logger. | 🟠 **v1.0** | iOS |
+| **Cribbo** | A gorgeous HomeKit and Matter code logger. | 🟢 **v1.0** | iOS |
 | **Moneyminder** | A simple app for setting and tracking savings goals | 🟣 **v0.9a** | iOS |
 
 ---
