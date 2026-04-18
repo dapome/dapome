@@ -1,53 +1,53 @@
-# 🧭 One Thirteen  
-### Digital Media & Software Development
+# howdy, I'm Nick.
 
-**One Thirteen** is a creative technology studio founded in 2025, focused on building thoughtful software and tools that enhance creative flow and productivity.
+I build apps, mess around with ideas, and occasionally make films.
 
----
-
-## 🛠️ Our Apps
-
-| App | Description | Status | Platform | Links |
-|-----|-------------|--------|----------|-------|
-| **Bit Buddy** | Track and manage external drives (HDDs, SSDs, etc.) | 🟢 **v3.0** | iOS/iPadOS | [🔗 App Store](https://one13.link/bitbuddy)
-| **Quick.Link** | Create and manage custom short links via YOURLS | 🟢 **v1.5** | iOS | [🔗 App Store](https://one13.link/quick-link-dl)
-| **Cribbo** | A gorgeous HomeKit and Matter code logger. | 🟢 **v1.0** | iOS | [🔗 App Store](https://one13.link/cribbo-dl)
-| **Moneyminder** | A simple app for setting and tracking savings goals | 🟣 **v0.9a** | iOS |
+most of what I do lives under **One Thirteen** — it’s basically just an umbrella for everything I’m working on.
 
 ---
 
-## 💻 Open Source Projects
+## what I’m currently working on
 
-| Project | Description | Status | Demo |Code    |
-|---------|-------------|--------|-------|-------|
-| **Momento Camera** | A clean, no-frills camera + gallery app for iOS | 🟢 **3/22/25** | N/A | [📂 Repository](https://one13.link/momentogh)
-| **Link-in-Bio Site** | A minimal, elegant link-in-bio template built in HTML | 🟢 **4/10/25** | [🔗 Demo](https://bio.one13.me) | [📂 Repository](https://github.com/onethirteenco/link-in-bio)
-| **Website Template** | A free, minimal website template (HTML/CSS) | 🟢 **5/29/25** | [🌐 Demo](https://one13.link/web-template) | [📂 Repository](https://github.com/onethirteenco/website-template)
-| **Bio Site v1** | First-gen version of our official link page | 🟢 **4/10/25** | [🌿 Demo](https://one13.link/bio-site-v1) | [📂 Repository](https://github.com/onethirteenco/bio-site)
+- **Moneyminder** — turning into more of an expense-first app instead of just savings goals  
+- **Bit Buddy** — recently shipped v3, still figuring out what it wants to be long-term  
+- **Cribbo** - a homekit/matter code logger for iOS, iPadOS, and Apple Watch. Recently released.
 
 ---
 
-## 🎯 Mission
+## apps
 
-At **One Thirteen**, we build tools to **streamline creative workflows** and **boost productivity** through clean, intuitive design.  
-Our work emphasizes **privacy**, **functionality**, and a focus on the creator.
-
----
-
-## 🔗 Official Link Hub
-
-> 🌐 **[bio.one13.me](https://bio.one13.me)** — Your gateway to all things One Thirteen
-> 
-> 🌐 **[onethirteen.co](https://onethirteen.co)** — One Thirteen's official website.
->
-> 🌐 **[whatnickthinks.com](https://whatnickthinks.com)** - One of our first-ever projects, no longer receiving updates (2008-2019).
+- **Bit Buddy** → https://one13.link/bitbuddy  
+- **Quick.Link** → https://one13.link/quick-link-dl  
+- **Cribbo** → https://one13.link/cribbo-dl  
+- **Moneyminder** → (still in progress)
 
 ---
 
-## 🌐 Connect With Us
+## random projects / open source
 
-- 📸 [Instagram @onethirteenco](https://instagram.com/onethirteenco)  
-- 🐦 [Twitter @onethirteen_co](https://twitter.com/onethirteen_co)  
-- 🌌 [BlueSky @onethirteen.co](https://bsky.app/profile/onethirteen.co)
+- Momento Camera  
+- a couple website templates  
+- link-in-bio stuff  
+
+(i move things around a lot, so this list is never really complete)
 
 ---
+
+## other things i’m into
+
+- local AI setups / workflows  
+- trying to make apps feel calm instead of addictive  
+- figuring out how to balance building software vs making films  
+
+---
+
+## links
+
+- https://dapolito.me
+- https://onethirteen.co  
+- https://bio.one13.me
+- https://whatnickthinks.com  
+
+---
+
+if you somehow found this, hi 👋
