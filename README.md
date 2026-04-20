@@ -26,17 +26,6 @@ You can follow me on [Instagram](https://www.instagram.com/dapolitonick), [Twitt
 
 ---
 
-### random projects / open source
-
-- Jules AI/Chat/Pocket  
-- **The Machine**  
-- code-buddy
-- bgh  
-
-(i move things around a lot, so this list is never really complete)
-
----
-
 ### other things i’m into
 
 - local AI setups / workflows  
