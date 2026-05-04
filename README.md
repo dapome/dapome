@@ -8,10 +8,8 @@ You can follow me on [Instagram](https://www.instagram.com/dapolitonick), [Twitt
 
 ### what I’m currently working on
 
-- [**Moneyminder**](https://moneyminder.app) — turning into more of an expense-first app instead of just savings goals  
-- [**Bit Buddy**](https://one13.link/bitbuddy) — recently shipped v3, still figuring out what it wants to be long-term  
-- [**Cribbo**](https://one13.link/cribbo-dl) - a homekit/matter code logger for iOS, iPadOS, and Apple Watch. Recently released.
-- [**Quick.Link**](https://one13.link/ql-dl) - a YOURLS client for iOS for free custom short links.
+- [**One Thirteen**](https://onethirteen.co) - making useful applications for iOS - [Bit Buddy](https://one13.link/bitbuddy), [Cribbo](https://one13.link/cribbo-dl), & [Quick.Link](https://one13.link/ql-dl)
+- [**Personal Site**](https://www.dapolito.me) - thoughts, accidental ramblings, and official links.
 - [**Sparrow Films**](https://www.sparrowfilms.co) - original short films and the [website](https://www.sparrowfilms.co).
 - [**Link-in-Bio**](https://github.com/One-Thirteen/link-in-bio) - a ready to deploy link-in-bio site with dynamic tabs.
 - [**WhatNickThinks**](https://www.whatnickthinks.com) - my first (technically second) website. Currently hosting an archived farewell letter.
