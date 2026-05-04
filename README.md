@@ -15,24 +15,9 @@ You can follow me on [Instagram](https://www.instagram.com/dapolitonick), [Twitt
 
 ---
 
-### what I'm no longer *really* working on
-
-- [**Momento Camera**](https://github.com/One-Thirteen/momento-code) - a lightweight iOS camera app with built-in editing. 
-- [**Bio Site v1**](https://github.com/One-Thirteen/bio-site) - the original link-in-bio site for **One Thirteen**.
-- [**Website Template**](https://www.template.onethirteen.co) - the basis for the original [**One Thirteen**](https://onethirteen.co) website.
-
----
-
 ### other things i’m into
 
 - local AI setups / workflows  
 - figuring out how to balance building software vs making films  
 
 ---
-
-### links
-
-- https://dapolito.me
-- https://onethirteen.co  
-- https://bio.one13.me
-- https://whatnickthinks.com  
