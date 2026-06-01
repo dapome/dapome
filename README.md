@@ -14,10 +14,3 @@ You can follow me on [Instagram](https://www.instagram.com/dapolitonick), [Twitt
 - [**WhatNickThinks**](https://www.whatnickthinks.com) - my first (technically second) website. Currently hosting an archived farewell letter.
 
 ---
-
-### other things i’m into
-
-- local AI setups / workflows  
-- figuring out how to balance building software vs making films  
-
----
